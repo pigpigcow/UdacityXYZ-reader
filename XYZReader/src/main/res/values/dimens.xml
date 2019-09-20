@@ -4,8 +4,20 @@
     <dimen name="detail_body_text_size">22sp</dimen>
     <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
 
-    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="fab_elevation">4dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_not_press_translation_z">0dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
 
+    <dimen name="activity_horizontal_padding">16dp</dimen>
+    <dimen name="content_left_margin_wh">8sp</dimen>
+    <dimen name="text_large_margin_top">40dp</dimen>
+    <dimen name="text_large_text_size">18sp</dimen>
+    <dimen name="text_subheader_text_size">16sp</dimen>
+    <dimen name="text_regular_text_size">15sp</dimen>
+    <dimen name="view_margin">20dp</dimen>
+    <dimen name="white_background_padding">20dp</dimen>
+    <dimen name="edittext_margin_top">10dp</dimen>
+    <dimen name="spinner_margin_left">10dp</dimen>
+    <dimen name="card_margin_top">40dp</dimen>
 </resources>
